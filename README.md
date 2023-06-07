@@ -10,6 +10,11 @@
 - ⭐️ PUG/SCSS, 
 - ⭐️⭐️ JavaScript, 
 - ⭐️ TypeScript
+- ⭐️⭐️ Docker
+- ⭐️⭐️ Nginx/ Apache
+- ⭐️⭐️ SQL-Databases 
+- ⭐️⭐️⭐️ Postman 
+- ⭐️ Linux 
 
 
 <!---
