@@ -1,5 +1,15 @@
 - 👋 Hi, I’m @netconpi
-- Stack: Python, Django, PHP, Laravel, Bitrix, C++, HTML/CSS, PUG/SCSS, JavaScript, TypeScript
+- Stack: 
+- ⭐️⭐️⭐️ Python, 
+- ⭐️⭐️⭐️ Django, 
+- ⭐️⭐️ PHP, 
+- ⭐️ Laravel, 
+- ⭐️⭐️ Bitrix, 
+- ⭐️ C++, 
+- ⭐️⭐️⭐️ HTML/CSS, 
+- ⭐️ PUG/SCSS, 
+- ⭐️⭐️ JavaScript, 
+- ⭐️ TypeScript
 
 
 <!---
