@@ -1,20 +1,6 @@
 - 👋 Hi, I’m @netconpi
-- Stack: 
-- ⭐️⭐️⭐️ Python, 
-- ⭐️⭐️⭐️ Django, 
-- ⭐️⭐️ PHP, 
-- ⭐️ Laravel, 
-- ⭐️⭐️ Bitrix, 
-- ⭐️ C++, 
-- ⭐️⭐️⭐️ HTML/CSS, 
-- ⭐️ PUG/SCSS, 
-- ⭐️⭐️ JavaScript, 
-- ⭐️ TypeScript
-- ⭐️⭐️ Docker
-- ⭐️⭐️ Nginx/ Apache
-- ⭐️⭐️ SQL-Databases 
-- ⭐️⭐️⭐️ Postman 
-- ⭐️ Linux 
+- Journal: journal.ntcnad.ru
+- (Coming soon) Portfolio: port.ntcnad.ru
 
 
 <!---
