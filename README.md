@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @netconpi
-- Journal: journal.ntcnad.ru
-- (Coming soon) Portfolio: port.ntcnad.ru
-- Contact me: me@ntmisha.ru
+- Journal: me.ntcnad.ru
+- Public DB: docs.ntcad.ru
+- Contact me: i@ntcad.ru
 
 
 <!---
