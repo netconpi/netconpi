@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @netconpi
-- Journal: me.ntcnad.ru
+- Journal: ntcad.ru
 - Public DB: docs.ntcad.ru
 - Contact me: i@ntcad.ru
 
